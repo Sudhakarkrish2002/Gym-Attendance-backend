@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Data
+data/attendance.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Env
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
